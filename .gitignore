@@ -1,0 +1,14 @@
+# Dataset
+dataset/*.csv
+
+
+# Generated Reports
+reports/*.png
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
